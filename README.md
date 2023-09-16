@@ -1,7 +1,7 @@
-# Doctor Finder
+# Cure Locator
 
 ## Description:
-Doctor Finder is Android app help you locate the best doctor near you. You can view doctor profile
+Cure Locator is Android app help you locate the best doctor near you. You can view doctor profile
 which display all information about doctor including education, rating, location, and contact
 information,...etc.
 
